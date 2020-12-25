@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144425062213",
+    "project_id": "societyapp-ebb20",
+    "storage_bucket": "societyapp-ebb20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144425062213:android:1091befdb5f2f295d1782c",
+        "android_client_info": {
+          "package_name": "com.example.society_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144425062213-0ivfi0ihl3v84o684810822atn5uq9se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.society_app",
+            "certificate_hash": "8eb501420bd5f70b66034e73318fac0093230455"
+          }
+        },
+        {
+          "client_id": "144425062213-fvkv6ea1upd0telm3g9v3dcee8fos8dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qYocGh59c2Y1e2TrIxIa0M8Cg2IE3J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144425062213-fvkv6ea1upd0telm3g9v3dcee8fos8dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
